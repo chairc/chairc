@@ -16,4 +16,4 @@
 
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=chairc&show_icons=true&theme=radical alt=chairc /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=chairc&show_icons=true&theme=transparent alt=chairc /> </p>
