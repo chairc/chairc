@@ -16,4 +16,7 @@
 
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=chairc&show_icons=true&theme=transparent alt=chairc /> </p>
+<div> 
+  <img height="160px"  src="https://github-readme-stats.vercel.app/api?username=chairc&show_icons=true&theme=transparent" alt="chairc" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairc&layout=compact&hide=c%2B%2B,cmake&theme=transparent" art="Top Langs" />
+</div>
