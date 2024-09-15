@@ -2,17 +2,17 @@
 
 ### An ordinary master from China :cn:  
 
-
+- 👻 This is [me](https://chairc.github.io/)
 
 - 🔭 I’m currently working on **computer vision**
 
-- 🌱 I’m currently researching **industrial defect detection**
+- 🌱 I’m currently researching **object detection** and **super resolution**
 
 - 📫 Reach me at **chenyu1998424@gmail.com**
 
 - 👨‍💻 All of my projects are available at [my github](https://github.com/chairc?tab=repositories)
 
-- 📝I regularly write articles on [my blog](https://chairc.cn)
+- 📝I regularly write articles on [my CSDN blog](https://blog.csdn.net/qq_43226466)
 
 
 
