@@ -1,6 +1,6 @@
 ## Hi 👋, I am chairc
 
-### An ordinary master from China :cn:  
+### An ordinary *Open-Source Project Maintainer* from China :cn:  
 
 - 👻 This is [me](https://chairc.github.io/)
 
