@@ -4,15 +4,15 @@
 
 - 👻 This is [me](https://chairc.github.io/)
 
-- 🔭 I’m currently working on **computer vision**
+- 🔭 I’m currently working on **Computer Vision** and **Large Language Model**
 
-- 🌱 I’m currently researching **object detection** and **super resolution**
+- 🌱 I’m currently researching **object detection**, **super resolution** and **Large Language Model**
 
 - 📫 Reach me at **chenyu1998424@gmail.com**
 
 - 👨‍💻 All of my projects are available at [my github](https://github.com/chairc?tab=repositories)
 
-- 📝I regularly write articles on [my CSDN blog](https://blog.csdn.net/qq_43226466)
+- 📝I regularly write articles on [my CSDN blog](https://blog.csdn.net/qq_43226466) and [private home](https://chairc.cn)
 
 
 
